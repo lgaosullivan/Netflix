@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Laura O'Sullivan\\source\\repos\\Netflix\\Netfix.WPFApp\\Netflix.WPFApp\\Netflix.WPFApp.csproj": {}
+    "C:\\Users\\Laura O'Sullivan\\Source\\Repos\\Netflix\\Netfix.WPFApp\\Netflix.WPFApp\\Netflix.WPFApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Laura O'Sullivan\\source\\repos\\Netflix\\Netfix.WPFApp\\Netflix.WPFApp\\Netflix.WPFApp.csproj": {
+    "C:\\Users\\Laura O'Sullivan\\Source\\Repos\\Netflix\\Netfix.WPFApp\\Netflix.WPFApp\\Netflix.WPFApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Laura O'Sullivan\\source\\repos\\Netflix\\Netfix.WPFApp\\Netflix.WPFApp\\Netflix.WPFApp.csproj",
+        "projectUniqueName": "C:\\Users\\Laura O'Sullivan\\Source\\Repos\\Netflix\\Netfix.WPFApp\\Netflix.WPFApp\\Netflix.WPFApp.csproj",
         "projectName": "Netflix.WPFApp",
-        "projectPath": "C:\\Users\\Laura O'Sullivan\\source\\repos\\Netflix\\Netfix.WPFApp\\Netflix.WPFApp\\Netflix.WPFApp.csproj",
+        "projectPath": "C:\\Users\\Laura O'Sullivan\\Source\\Repos\\Netflix\\Netfix.WPFApp\\Netflix.WPFApp\\Netflix.WPFApp.csproj",
         "packagesPath": "C:\\Users\\Laura O'Sullivan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Laura O'Sullivan\\source\\repos\\Netflix\\Netfix.WPFApp\\Netflix.WPFApp\\obj\\",
+        "outputPath": "C:\\Users\\Laura O'Sullivan\\Source\\Repos\\Netflix\\Netfix.WPFApp\\Netflix.WPFApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DpTe8E0JsB8sDUa+8fHwwsazZVS9irPDe0xJE0TK3rLV1HPfiJa487COcj9OywYzygc5WqYHzTJGWBB/mw08lg==",
+  "dgSpecHash": "24IFOpql7q10dActmaPm5dFzxR1aXyUZwq/5MjqgkX5NTq554T9W5xp9dAHjbxLSsZxnv8o95V1QWnbjKB04Tw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Laura O'Sullivan\\source\\repos\\Netflix\\Netfix.WPFApp\\Netflix.WPFApp\\Netflix.WPFApp.csproj",
+  "projectFilePath": "C:\\Users\\Laura O'Sullivan\\Source\\Repos\\Netflix\\Netfix.WPFApp\\Netflix.WPFApp\\Netflix.WPFApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Laura O'Sullivan\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\Laura O'Sullivan\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0-preview.1.21102.12\\microsoft.extensions.configuration.6.0.0-preview.1.21102.12.nupkg.sha512",
