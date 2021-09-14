@@ -10,7 +10,6 @@ namespace Netflix.WPFApp
         public IMapping _Mapping;
         public IClient _Client;
 
-
         public readonly AppSettings Settings;
         public MainWindow(IMapping Mapping, IClient Client, IOptions<AppSettings> Settings)
         {
