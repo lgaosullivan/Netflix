@@ -19,7 +19,7 @@ The WPF app is also written in .NET Core and renders the 100 json objects on its
 By default the id property is shown on each square. When clicking on any sqaure the id property on every square changes to the userId property.
 
 To run this:
-1) Clone the Netflix repo
+1) Clone the Netflix branch in the Netflix repo
 3) Using Visual Studio open Netflix.WebAPI and select Play/Run -> this will run the API. To get the json object results go to localhost:xxxx/netflix
 4) Using another Visual Studio open Netflix.WPFApp and select Play/Run -> this will launch the WPF app UI
 
